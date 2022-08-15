@@ -1,6 +1,6 @@
 # Whitelist-Dapp
 
-You are launching your NFT collection named Crypto Devs. You want to give your early supporters access to a whitelist for your collection, so here you are creating a whitelist dapp for Crypto Devs
+Launching the first NFT collection named Crypto Devs. It is made to give the early supporters access to a whitelist for your collection, so here you are creating a whitelist dapp for Crypto Devs
 
 ![image](https://user-images.githubusercontent.com/71933835/184721282-613cf0e3-7628-4864-99cc-53b0d0d0cb52.png)
 
